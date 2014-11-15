@@ -4,7 +4,7 @@ int time = 100;
 
 //how many values of x to show, spread across 0 < x < 1
 //It's this minus 1
-int xrange = 2, decimals = 3; 
+int xrange = 2, decimals = 5; 
 
 //firstx: used to move the first x back and forth. 
 //xadjust: for shifting the xs by a chosen decimal
