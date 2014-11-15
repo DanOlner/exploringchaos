@@ -30,7 +30,7 @@ boolean blend, varchange;
 boolean map = true;
 
 //0 = no state space, 1 = square, 2 = direct
-int state = 1;
+int state = 0;
 
 
 void setup() {
